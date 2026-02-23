@@ -1,0 +1,1 @@
+SELECT * FROM v_book_details WHERE title = '吾輩は猫である';
